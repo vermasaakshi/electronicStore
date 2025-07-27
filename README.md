@@ -1,5 +1,6 @@
 
 # electronicStore
 
-It is developed using JSP, Servlets, JDBC, and Springboot architecture. It helps manage product inventory, customer orders, and billing efficiently. It only includes backend code (as of now) that automates key retail operations, reducing manual tasks and improving store management.
+Developed an Electronic Store web application using Java, Spring Boot, and Hibernate, featuring functionalities like product catalog, shopping cart, and order management. Implemented cart and cart item services with relational mappings, enabling users to add, update, and remove products from their cart.
+
 
